@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Andres</h1>
-<h3 align="center">A Student at FAMAF</h3>
+<h3 align="center">A Student at FAMAF - National University of Cordoba - Argentina</h3>
 
 - 🌱 I’m currently learning: **C/C++, Java, Arduino and Linux.**
 
